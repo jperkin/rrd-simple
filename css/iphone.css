@@ -1,0 +1,30 @@
+
+div.index p.welcome {
+  font-size: 1.5em;
+}
+
+div.index ul {
+  padding-left: 30px;
+}
+
+div.index li {
+  font-size: 1.5em;
+  padding-bottom: 15px;
+}
+
+div.footer {
+  display: none;
+}
+
+body {
+  padding-bottom: 10px;
+}
+
+div.index_introduction {
+  display: none;
+}
+
+pre.graph_detail {
+  display: none;
+}
+

@@ -1,0 +1,29 @@
+Created_tmp_disk_tables	G
+Created_tmp_files	G
+Created_tmp_tables	G
+
+Threads_cached		G
+Threads_connected	G
+Threads_created		G
+Threads_running		G
+
+Connections		G
+
+Select_scan		C
+Sort_scan		C
+
+Bytes_sent		C
+Bytes_received		C
+
+Com_rollback		C
+Com_commit		C
+Com_set_option		C
+
+Innodb_row_lock_current_waits	G
+		time		G (seperate)
+		time_avg	G
+		time_max	G
+		waits		G
+
+
+
